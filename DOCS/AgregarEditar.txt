@@ -1,0 +1,80 @@
+//******************** VISTA ***********************
+
+//-----------AGREGAR---------------------
+per.Nombre = txtnombre.Text;
+per.Apellido = txtapellido.Text;
+
+
+
+string resultado = per.Agregar();
+//----------------------------------------
+
+
+
+//----------- ACTUALIZAR ---------------------
+per.Id = Convert.ToInt32(lblid.Text);
+int resultado = per.Actualizar();
+
+
+
+//********************** LOGICA **************************
+
+/*public int Agregar()
+        {
+            try
+            {
+/*Para validar que no se repitan los campos*/
+
+                int existe = M.Verificaexiste(@"Select if (exists (select pr_nom from prueba where pr_nom='"+ Nombre +"'),-99,-98)");
+
+                if (existe == -98)
+                {
+                    string comando = @"Insert into prueba (pr_nom, pr_ape) " +
+                                                    "values ('" + Nombre + "', '" + Apellido + "' ); SELECT LAST_INSERT_ID(); ";
+
+                    return M.EjecutarSql(comando);
+                }
+                else
+                {
+                    return existe;
+                }
+
+                
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+
+        }*/
+
+
+
+
+
+public int Actualizar()
+        {
+            try
+            {
+                int existe = M.Verificaexiste(@"Select if (exists (select pr_nom from prueba where pr_nom='" + Nombre + "' and pr_id <> '" + Id +"' ),-99,-98)");
+
+                if (existe == -98)
+                {
+                    string comando = @"Update prueba set pr_nom = '" + Nombre + "', pr_ape = '" + Apellido + "' where pr_id = '" + Id  +"'; SELECT ROW_COUNT();";
+
+                    return M.EjecutarSql(comando);
+                }
+                else
+                {
+                    return existe;
+                }
+
+
+            }
+            catch (Exception)
+            {
+
+                throw;
+            }
+        }

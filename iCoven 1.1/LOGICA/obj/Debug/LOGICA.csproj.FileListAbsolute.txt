@@ -1,0 +1,316 @@
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\Accdat.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\MySqlConnector.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Buffers.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Memory.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Buffers.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Memory.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCOVEN\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\MySqlConnector.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Buffers.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Memory.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Buffers.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Memory.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\LOGICA.dll.config
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\MetroFramework.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCOVEN\LOGICA\obj\Debug\LOGICA.dll.licenses
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\LOGICA.dll.config
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\MySqlConnector.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Buffers.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Memory.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Buffers.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Memory.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\obj\Debug\LOGICA.dll.licenses
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\Accdat.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\bin\Debug\Accdatn.dll
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\obj\Debug\LOGICA.csproj.ResolveComReference.cache
+C:\Users\Mario\Desktop\Lenovo!\iCoven\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\iCoven\LOGICA\obj\Debug\LOGICA.csproj.ResolveComReference.cache
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\LOGICA.dll.config
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\MetroFramework.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\MySqlConnector.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Buffers.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Memory.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Buffers.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Memory.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\obj\Debug\LOGICA.csproj.ResolveComReference.cache
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\obj\Debug\LOGICA.dll.licenses
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\iCoven 1.1\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\LOGICA.dll.config
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\MySqlConnector.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Buffers.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Memory.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Buffers.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Memory.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\obj\Debug\LOGICA.csproj.ResolveComReference.cache
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\obj\Debug\LOGICA.dll.licenses
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\Mario\ownCloud\Mario Castro\iCOVEN\iCoven 1.1\LOGICA\obj\Debug\LOGICA.pdb
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\LOGICA.dll.config
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\LOGICA.pdb
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\Accdat.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\Accdatn.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\MySqlConnector.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Buffers.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Memory.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Buffers.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Memory.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\obj\Debug\LOGICA.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\obj\Debug\LOGICA.csproj.ResolveComReference.cache
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\obj\Debug\LOGICA.dll.licenses
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\obj\Debug\LOGICA.dll
+C:\Users\Mario\Desktop\rom\iCoven 1.1\LOGICA\obj\Debug\LOGICA.pdb

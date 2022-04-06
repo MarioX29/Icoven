@@ -1,0 +1,1 @@
+select com_eliminado  from compra where com_eliminado != '0'

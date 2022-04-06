@@ -1,0 +1,1 @@
+Insert into proveedor values ('0','l','l','J','gf','354132','dsfad','dsfada','dfad','1','12','15');SELECT LAST_INSERT_ID();
